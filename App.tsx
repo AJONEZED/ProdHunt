@@ -1,0 +1,1 @@
+// This component has been migrated to index.html.
